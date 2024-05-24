@@ -1,4 +1,4 @@
-PowerBI-IPL-Analysis
+#PowerBI-IPL-Analysis
 
 📚 Project Overview :- For the past few weeks, I've been engrossed in a deep dive into the world of cricket, using data analysis as my guiding light. The IPL (Indian Premier League) has always fascinated me, and what better way to understand its nuances than by harnessing the power of data? This project was not just about numbers; it was about gleaning insights and honing skills.
 
